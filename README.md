@@ -27,7 +27,7 @@ The project uses the Streamlit framework for the user interface. The main functi
 To run this project, follow these steps:
 1. Install the required packages by running `pip install -r requirements.txt`.
 2. Set up your OpenAI API key by replacing `your api key` in the `api_key` variable.
-3. Run the `main` function to start the Streamlit app.
+3. Run the `streamlit_app.py` function to start the Streamlit app.
 
 ## Dependencies
 The project uses the following dependencies:
